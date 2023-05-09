@@ -364,7 +364,7 @@ Next, we must create a folder in our `src` directory called `programs` so we can
 ```sh
 mkdir src/programs
 touch ./src/programs/mod.rs
-touch ./sc/programs/wba_prereq.rs
+touch ./src/programs/wba_prereq.rs
 ```
 
 Now we need to publicly declare our `wba_prereq` module in our programs module, `mod.rs`:
